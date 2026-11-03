@@ -1,14 +1,14 @@
 # Atividade 4 | Modelagem Preditiva para Avaliação Imobiliária
 
-## Contexto:
+## Contexto
 
 A imobiliária Lar Perfeito está em processo de modernização do seu sistema de avaliação de imóveis. Historicamente, os preços eram estimados de forma intuitiva pelos corretores, o que resultava em distorções significativas nos valores de anúncio e inconsistência no mercado. Para mitigar esse problema e padronizar o processo, o departamento de dados coletou uma amostra de 500 vendas recentes ocorridas no mesmo bairro.
 
-## O Desafio:
+## Desafio
 
 O objetivo desta atividade é desenvolver um modelo de regressão linear capaz de explicar a variação do preço de venda com base nas características estruturais dos apartamentos.&nbsp;
 
-### Dados Disponíveis:
+### Dados Disponíveis
 
 Você recebeu um arquivo CSV (`imoveis_lar_perfeito.csv`) contendo as seguintes variáveis:
 - `id_imovel`: Identificador único da transação (deve ser desconsiderado na modelagem).
@@ -16,7 +16,7 @@ Você recebeu um arquivo CSV (`imoveis_lar_perfeito.csv`) contendo as seguintes 
 - `quantidade_quartos`: Número de quartos do imóvel (variável preditora).
 - `preco_venda`: Valor final da venda em Reais (variável alvo/dependente).
 
-### Sua Tarefa:
+### Tarefa
 
 Utilizando as técnicas de regressão linear múltipla, determine a equação que melhor estima o preço de venda dos imóveis. Sua resposta deve apresentar:
 
