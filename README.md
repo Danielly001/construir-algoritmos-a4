@@ -1,4 +1,4 @@
-# 
+# Atividade 4 | Modelagem Preditiva para Avaliação Imobiliária
 
 Contexto:
 A imobiliária Lar Perfeito está em processo de modernização do seu sistema de avaliação de imóveis. Historicamente, os preços eram estimados de forma intuitiva pelos corretores, o que resultava em distorções significativas nos valores de anúncio e inconsistência no mercado. Para mitigar esse problema e padronizar o processo, o departamento de dados coletou uma amostra de 500 vendas recentes ocorridas no mesmo bairro.
